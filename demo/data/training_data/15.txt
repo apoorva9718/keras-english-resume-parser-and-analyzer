@@ -1,0 +1,27 @@
+header	others	RAKSHITH   R
+header	education	EDUCATION
+content	education	S   J   C   INSTITUTE   OF   TECHNOLOGY,     Chickaballapura—     BE   in   CSE
+content	education	AUG   2016   -   JUL   2019                                                                            6.8   CGPA
+header	knowledge	SKILLS
+content	knowledge	React,   Redux,   JavaScript,   Node.js,   Express.js,   MongoDB,   AJAX,   HTML   &   CSS,   Bootstrap,
+content	knowledge	Postman,   Git   &   GitHub,   Balsamiq,   Python   and   Web   scraping.
+header	experience	EXPERIENCE    (1   Year)
+content	experience	DCT   Academy   (   MERN   FullStack   web   Developer   Trainee   )                           -6   months.
+content	experience	CognitiveClouds   Software   Pvt.   Ltd   (Software   Developer   Intern)                    -6   months.
+content	experience	● Worked   on   development   of   multiple   web   applications.
+content	experience	● Collaborated   with   colleagues   on   the   development   of   ReactJS   and   Node.js   based   projects.
+content	experience	● Designed  web  pages  and  provided  assistance  to  other  employees;  performed  other  duties  assigned
+content	experience	● Pro-actively   participated   in   weekly   team   meetings   and   conducted   reports   on   the   project's
+content	experience	by   managers.
+content	experience	progress.
+header	project	PROJECTS
+content	project	Campus   Recruitment   System
+content	project	is   a   full  stack  web  app  to  maintain  the  placement  activities  in  campus.
+content	project	Campus   recruitment   system
+content	project	Students   can  create  his/her  profile   and
+content	project	Basically   this   website   is   to   connect   each   student   with   HR.
+content	project	apply   for   job   through   websites   and   admin   can   do   CRUD   operations   on   Company   details.    React,
+content	project	Redux,   Node.js,   Express.js,   MongoDB   and   Bootstrap   are   used   in   this   project.
+content	project	Ticket   Master   App                                                   https://github.com/rgowdar1/ticket-master-ap p
+content	project	https://ticket-master-rakshith.herokuapp.com
+content	project	Ticketmaster   app   is   a   full   stack   web   app   where   users   can   track

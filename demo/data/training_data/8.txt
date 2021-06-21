@@ -1,0 +1,27 @@
+header	others	gkranthikumar888@gmail.com
+content	others	:
+header	others	G Kranthi Kumar
+content	others	Email
+content	others	Phone No
+content	others	SUMMARY:
+content	others	+
+content	others	:
+content	others	91-9059988005
+content	others	●
+content	experience	Having 1.5+ years of professional IT Experience in phases of Software Development (Requirement
+content	experience	study, Design, Coding) in various web Applications.
+content	experience	Developed modern web applications using (
+content	experience	React , Redux
+content	experience	), User experience design and development.
+content	experience	Worked on developing Reactjs, reactbootStrap code through JavaScript
+content	others	.
+content	experience	Hands on experience in client-side validations like Reactjs, JavaScript.
+content	experience	Experience in binding HTML template (views) to
+content	experience	JavaScript
+content	experience	objects (models) utilized
+content	others	●
+content	others	●
+content	others	●
+content	others	●
+content	experience	Designed and coded with Responsive Web Design (RWD) using
+content	experience	Bootstrap

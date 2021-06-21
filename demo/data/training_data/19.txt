@@ -1,0 +1,27 @@
+header	others	Vinay Sagar Sharma
+content	others	vinaysagar971995@gmail.com
+content	others	6005443702
+content	others	Jammu, India
+content	others	linkedin.com/in/vinay-sagar-sharma-124794182
+content	others	github.com/vinay72
+content	others	I'm a versatile software engineer with a focus on front end engineering and JavaScript. I like creating seamless user experiences with well-
+content	others	architected, well-tested code. I've worked on a diverse range of products, in cross-functional teams.
+header	others	EDUCATION
+header	others	SKILLS
+content	education	B.Tech
+content	education	Shri Mata Vaishno Devi University
+content	education	10/2015 - 10/2019,
+content	knowledge	JavaScript
+content	knowledge	React
+content	knowledge	REST API
+content	knowledge	Webpack
+content	knowledge	Redux
+content	knowledge	Data Structures
+content	knowledge	HTML5/CSS3
+header	others	WORK EXPERIENCE
+content	experience	Software Engineer
+content	experience	InnovationM
+content	experience	09/2020 - 03/2021,
+content	experience	InnovationM is a Top Mobile App & Web Development Company in Delhi
+content	experience	NCR, India & UK. We oﬀer design & development services Web & Cloud
+content	experience	technology, outsourcing for software, mobile app development,

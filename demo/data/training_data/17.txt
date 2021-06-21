@@ -1,0 +1,26 @@
+header	others	Sneha Patil
+content	others	411058 Pune, India
+content	others	8208490765 / 8123023775
+content	others	www.linkedin.com/in/sneha-patil-
+content	experience	Innovative Front End Developer with 1.3 years experience building and maintaining responsive websites. Proficient in HTML,
+content	experience	CSS, JavaScript; plus modern libraries and frameworks. Passionate about learning new tools and technologies.
+header	others	Profile
+header	others	Summary
+content	experience	Total technical and relevant Exp : 1.3 year
+content	experience	Determining the structure and design of web pages.
+content	education	Developing features to enhance the user experience.
+content	experience	Building reusable code for future use.
+content	experience	Optimizing web pages for maximum speed and scalability.
+header	experience	Professional Experience
+content	experience	Maharashtra Knowledge Corporation Limited (MKCL,Pune) - from 07/2019 to 09/2020
+content	experience	It is a product based company for learning, governance and empowerment services.
+content	experience	Having 1.3 year of experience in software and web development
+header	project	Projects :
+content	project	Equity Management
+content	project	Digital University
+content	project	VueJS
+content	project	Golang
+content	knowledge	JavaScript
+content	knowledge	JS Frameworks
+content	knowledge	React
+content	knowledge	JQuery

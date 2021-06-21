@@ -1,0 +1,27 @@
+content	education	Amrita School of Engineering
+content	education	Amritapuri, India
+content	education	July 2015 - August 2019
+header	others	Bharath N Rao
+meta	experience	Software Trainee
+header	education	Education
+content	others	•
+content	others	•
+meta	education	Vishwabharathy Public School
+content	education	Science; Central Board of Secondary Education); 83%
+header	knowledge	Programming Skills
+header	experience	Experience
+content	others	•
+content	experience	Human Resocia Co. Ltd Japan
+content	experience	Engineer
+content	project	Projects
+content	knowledge	• Languages: C, C++, HTML, Ruby
+content	others	•
+content	experience	Interests: Web Development, Robotics(ROS), Machine Learning, Cyber Security
+content	others	Email : bharathnrao@outlook.com
+content	others	Mobile : +91-9497270897
+content	others	Neyyattinkara, India
+content	others	May 2013 - April 2015
+content	others	Chennai
+content	others	August 2019 - September 2020
+content	experience	• HUMAN RESCUE SIMULATION In ROS integrated with Gazebo Lead a 5 man team on Human Rescue
+content	experience	Simulation Project.The project aimed to perfect an eﬃcient approach for navigating through an unknown disaster

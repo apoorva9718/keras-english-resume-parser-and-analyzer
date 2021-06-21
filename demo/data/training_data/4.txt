@@ -1,0 +1,27 @@
+header	others	Alsaad Ahamed
+content	others	I am an enthusiastic and driven software engineer with 1.4 Year of experience in the industry.
+content	others	alsaadahamed4@gmail.com
+content	others	+918277615838
+content	others	Udupi, India
+content	others	github.com/AlsaadAhamed4
+content	others	linkedin.com/in/AlsaadAhamed
+header	others	EDUCATION
+header	others	SKILLS
+content	others	Bangalore, India
+header	others	PERSONAL PROJECTS
+content	knowledge	HTML5
+content	knowledge	CSS
+content	knowledge	JavaScript
+content	knowledge	Jquery
+content	knowledge	React.js
+content	knowledge	Redux
+content	knowledge	Node.js
+content	knowledge	React Native
+content	knowledge	Firebase
+content	knowledge	Bootstrap
+content	knowledge	Node.js
+content	knowledge	SPA
+content	knowledge	Webpack
+content	knowledge	ASP.Net
+content	knowledge	VB.Net
+content	knowledge	SQL

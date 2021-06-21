@@ -1,0 +1,27 @@
+header	others	​MPLOYMENT
+header	experience	Software Engineer
+header	others	A
+header	others	​KANKSHA
+header	others	​ K
+header	others	​UMARI
+content	others	+919023739856
+content	others	akankshasinghpatna29@gmail.com
+meta	experience	Treflo Internet
+meta	experience	June 2019 - Present
+content	experience	● Developed A Complete Internal Tool using Rails for managing Products, Suppliers and Companies.
+content	experience	● Created An E-Commerce Android Application using Flutter.
+content	experience	● Worked on Multiple Bug Fixes for their Client Dashboard using React.
+content	experience	● Working on Online Marketplace that focuses on facilitating commerce between Buyers & Sellers.
+meta	experience	Technical Associate
+meta	experience	Poplify Pvt. Limited
+meta	experience	July 2018 - June 2019
+content	experience	● Redesigned the bundle of courses  and implemented shopping cart functionality in Learn Hownow.
+content	experience	● Designed and Implemented APIs in Ruby on Rails in Bukit App.
+content	experience	● Worked on Admin Interface in PMClothing.
+content	experience	Software Engineer, Intern
+meta	experience	Poplify Pvt. Limited
+meta	experience	Jan 2018 - June 2018
+meta	experience	● Learnt Ruby Fundamentals, Rails request Cycle,  Major components of Rails including Active Record, Action
+content	experience	Controller and Action View.
+header	education	​DUCATION
+header	education	E

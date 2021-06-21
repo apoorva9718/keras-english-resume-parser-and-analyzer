@@ -1,0 +1,27 @@
+header	others	ABHISHEK VISHWAKARMA
+content	others	technologies. Want to be part of an organization where I can contribute with my technical skills and progress continuously.
+content	others	vishwakarmaabhishek31@gmail.com
+content	others	Tezpur(Assam),  India
+content	others	abhishek765.github.io/
+content	others	github.com/Abhishek765
+content	others	+91-9834740903
+content	others	10 February, 2000
+content	others	linkedin.com/in/abhishek-vishwakarma17
+header	others	EDUCATION
+header	others	SKILLS
+content	education	Bachelor of Technology - Computer Science
+content	education	and Engineering
+content	education	Indian Institute of Information Technology
+content	education	Kottayam
+content	education	08/2017 - 06/2021,
+content	education	CGPA: 8.24/10
+content	knowledge	C++
+content	knowledge	Kotlin
+content	knowledge	HTML5
+content	knowledge	CSS3
+content	knowledge	JavaScript
+content	knowledge	JAVA
+content	knowledge	jQuery
+content	knowledge	ReactJS
+content	knowledge	SQL  MongoDB
+content	knowledge	NodeJS

@@ -1,0 +1,27 @@
+header	others	RESUME
+content	others	E-mail:    narayankumbhakar@gmail.com
+content	others	Mobile:    +91-8002675844
+content	experience	To  ensure  challenging  position  in  a  growing  organization  where  I  would  able  to  utilize
+content	experience	my capabilities to the best extend and in the process add value to the organization and my
+content	experience	career.
+header	others	CAREER OBJECTIVE
+header	others	EDUCATIONAL QUALIFICATION
+header	others	QUALIFICATION
+header	others	STREAM
+header	others	INSTITUTE
+header	others	BOARD
+content	others	B .Tech
+content	others	/SCHOOL
+content	education	Gandhi Institute
+content	education	Of
+content	education	BPUT,
+content	education	Rourkela,
+content	education	Orissa
+content	education	Engineering
+content	education	Electronics
+content	education	&
+content	education	Communication
+content	education	Engineering
+content	education	+2(Science)
+content	education	10th
+content	education	&

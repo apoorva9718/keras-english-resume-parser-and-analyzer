@@ -1,0 +1,27 @@
+header	others	Veena Subramanian
+content	experience	I  am  intrigued  by  problem  solving  and  love  programming.  I  wish  to  hone  my  skills  in  Front  End
+content	experience	Technologies and aspire to be a Full Stack Developer. I want to work in an organization where I can
+content	experience	put my existing skills to a test and at the same time enhance them.
+content	education	B.Tech in Civil Engineering
+content	education	National Institute of Technology (NIT) Calicut
+content	education	08/2016 - 07/2020,
+content	education	Courses
+content	others	Kerala, India.
+content	experience	Executive member - core committee for college tech festival 'Tatva -2019' and Cultural festival
+content	experience	'Ragam-2020'.
+header	others	FRONT-END EDUCATION
+content	experience	The JavaScript Bootcamp - Scrimba (04/2021)
+content	experience	The course work included advanced JavaScript from the ground up. It features a systematic walk-through of the
+content	experience	most important concepts including the Basics of Javascript, Types and Conditionals, Functions, Objects & Maps,
+content	experience	Arrays & Sets, Classes, DOM, Async Javascript and Projects.
+content	experience	https://scrimba.com/certiﬁcate/uQ9qdVUN/gjavascript
+content	experience	HTML, CSS, and JavaScript for Web Developers - CourseraWNEF (01/2021)
+content	experience	The course work included the basic tools for web developement. Starting from the ground up by delving into
+content	experience	implementing modern web pages with HTML and CSS. Then advancing to Javascript, building a fully functional
+content	experience	web application that utilizes Ajax to expose server-side functionality and data to the end user.
+content	knowledge	https://www.coursera.org/account/accomplishments/verify/4FCRERGH5GZJ
+content	knowledge	JavaScript Algorithms and Data Structures - FreeCodeCamp (07/2020)
+content	knowledge	The JavaScript Algorithm and Data Structures Certiﬁcation, exposes to the fundamentals of JavaScript including
+content	knowledge	variables, arrays, objects, loops, and functions.
+content	knowledge	https://www.freecodecamp.org/certiﬁcation/veenasubramanian/javascript-algorithms-and-data-structures
+header	others	PERSONAL PROJECTS

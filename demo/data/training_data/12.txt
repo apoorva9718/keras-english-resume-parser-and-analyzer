@@ -1,0 +1,27 @@
+header	others	MANUVARTHI SAI AKHILESH
+content	experience	· Worked on UI development for consumer web application. Used React, React Hooks and Tailwind-
+content	experience	css for building reusable, modular components. Got familiar with Lerna mono-repositories and good
+content	experience	development practices.
+content	experience	· Worked on a login portal for employees. Used Node.js and MongoDB on backend, built web pages
+content	experience	· Studied computer hardware and software components used in a manufacturing company. Got familiar
+content	others	Jun 2015 - May 2020
+content	others	Sep 2020 - Nov 2020
+content	others	Bangalore, India
+content	others	Apr 2018 - May 2018
+content	others	Kakinada, India
+content	others	Oct 2017
+content	others	Hyderabad, India
+header	education	EDUCATION
+content	education	Christ University, Bangalore
+content	education	B.Tech, Information Technology
+content	experience	EXPERIENCE/INTERNSHIPS
+content	experience	Fincity
+content	experience	Frontend Developer Intern
+content	experience	Reliance Industries Limited
+content	experience	Web Developer Intern
+content	experience	using Bootstrap on frontend.
+content	experience	BHEL
+content	experience	Intern
+content	experience	with SAP.
+header	project	INDEPENDENT PROJECTS
+content	project	Group Task Manager

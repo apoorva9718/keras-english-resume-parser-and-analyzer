@@ -1,0 +1,27 @@
+header	others	ANUBHAV SHARMA
+content	others	E-Mail: anubhavk.258@gmail.com
+content	others	A result-oriented high energy professional targeting assignments in Software Development willing to
+content	others	work any location of India.
+header	others	CORE COMPETENCIES
+header	others	PROFILE SUMMARY
+meta	experience	Frontend Web Development
+content	experience	A  goal  oriented  professional  in  Software  Development  with
+content	experience	knowledge  in  programming  languages  &  web  technologies  such  as
+content	experience	Python, JavaScript, ReactJs, HTML/CSS.
+content	experience	Currently working on a project GMI based on React/Redux and
+content	experience	ExpressJs/Feathers.js.
+content	experience	•
+content	experience	•
+content	experience	It is a project for online news portal of a organization of Italy. This websites is based on ReactJs and
+content	experience	Feathers.Js
+content	experience	•  My role is here mixed up. Mostly I worked on feature enhancement and maintenance both frontend as
+content	experience	well as backend.
+content	experience	In this websites, HTML/CSS, ReactJs, Redux , expressJS and FeathersJs is used to making and
+content	experience	maintaining.
+content	experience	•
+content	experience	It is a project for online tutorial wherein a tutor uploads tutorial and user can access those according to
+content	experience	their need.
+content	experience	•  API Integration using ReactJs
+content	experience	•  Created Login/Signup page, VideoPlayer using video.js.
+content	experience	ReactJS
+content	experience	JavaScript

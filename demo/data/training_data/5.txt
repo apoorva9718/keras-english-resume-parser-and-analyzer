@@ -1,0 +1,27 @@
+header	others	Anjan kumar
+content	others	Experienced Software Engineer with a demonstrated history of working in the information
+content	others	technology and services industry. Skilled in ReactJS, ReduxJS, HTML, Cascading Style Sheets (CSS),
+content	education	and JavaScript. Strong engineering professional with a Bachelor of Engineering - BE focused in
+content	education	Computer Science and Engineering from PES University
+content	others	anjank81@gmail.com
+content	others	8892218179
+content	others	Bengaluru, India
+header	experience	WORK EXPERIENCE
+meta	experience	Software Engineer
+meta	experience	Xelpmoc design and tech limited
+content	experience	10/2019 - Present,
+content	experience	Xelp is a technology, data analytics and design company, focusing on solving real problems aﬀecting people at
+content	experience	large.
+content	experience	linkedin.com/in/anjan-kumar-
+content	experience	96b638ab
+content	experience	github.com/anjank81
+meta	experience	Full-stack web developer
+meta	experience	Augentia LLC
+content	experience	11/2018 - 08/2019,
+content	experience	medium.com/@anjank81
+header	project	PROFESSIONAL PROJECTS
+meta	project	Campage (11/2018 - 08/2019)
+content	project	Developed a project management tool using PHP and mySql as backend and Javascript, jQuery as front-end
+content	project	Used CSS media queries to make responsive among all the devices
+content	project	Implemented error handling function and had taken care of possible issue
+content	project	The Star in me (10/2019 - Present)

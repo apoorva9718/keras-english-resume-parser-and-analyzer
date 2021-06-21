@@ -1,0 +1,27 @@
+header	others	CURRICULUM VITAE
+content	experience	UI/UX Developer with React JS Email:
+content	others	Location: Hyderabad
+meta	others	CAREER OBJECTIVE:
+content	experience	Seeking a challenging and rewarding career to Information Technology. Would like to be a part of an Organization which gives me an opportunity to make use of my Technical skills and abilities to achieve the best.
+header	experience	PROFESSIONAL SUMMARY:
+content	experience	Having total 4.6 years of experience. 2 Years Worked as Associate Professor in Degree College.
+content	experience	Having 2.6 Years of experience in UI/UX.
+content	experience	Having experience in React JS to develop the SPA.
+content	experience	Having experience in React JS components, Forms, Events, States, Props, Router and JavaScript ES6 concepts.
+content	experience	Good Experience in Design the web pages by using HTML/HTML5, CSS/CSS3, SASS and JavaScript.
+content	experience	Experience with Bootstrap3, Bootstrap4 and JQuery.
+content	education	Having good experience on Develop the application Logos, Icons, Gift vouchers and Images by using Adobe Photoshop CS6 and CorelDraw.
+content	experience	Experience in writing Mobile Responsive.
+content	experience	Good experience in hosting website.
+content	experience	Experience in creating landing pages in digital marketing.
+content	experience	Worked on XAMPP server.
+content	experience	Flexible and able to work effectively in a team environment.
+content	experience	Ability to learn new Technologies and tools quickly.
+content	knowledge	TECHNICAL SKILL SET:
+content	knowledge	Technical : HTML5, CSS3, JavaScript and React JS
+content	knowledge	Libraries : React JS and JQuery
+content	knowledge	Framework : Bootstrap3,4
+content	knowledge	Front End Tools : Adobe Photoshop CS6, CorelDraw
+content	knowledge	Operating System : Windows2007, Windows XP, Windows2000
+content	education	ACADEMIC PROFILE:
+content	education	Completed MCA in Rishi UBR PG College for Women in Osmania University, Hyderabad.

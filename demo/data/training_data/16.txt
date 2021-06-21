@@ -1,0 +1,26 @@
+content	others	SAHIL GODWAL “I believe the only way to success is by persistence, intelligence and hard work. “
+content	knowledge	Languages: English, Hindi
+header	others	OBJECTIVE
+content	experience	PERSONAL To secure a challenging position in the field of Information technology in a progressive organization and make significant contributions both individually and in a team environment for the organization’s growth.I use my qualification and experience to provide technical support and hence ensuring zero downtime for business and providing a WOW customer satisfaction.
+header	others	SUMMARY
+content	experience	A self motivated professional with overall 1.1 years of experience .Working in GlobalLogic Technology Ltd ,gurgaon since Feb 2020 as Software developer thereby assisting in the process.Good relationship management skills and ability to work with senior management.I’m a highly motivated, results orientated, bold, confident and an independent person with immense interest in solving problems and a passion for Scripting.
+content	experience	Expertise
+content	experience	Building stable and maintainable codebase using react.
+content	experience	Collaborating with designer to ensure designs were efficient and technically sound.
+content	experience	Creating modular, responsive templates using modern CSS techniques and javascript libraries.
+content	experience	Using Adobe XD to create UI/UX design for better understanding of app.
+content	experience	Adept at working with various teams and understanding technical & functional specifications of the project.
+content	experience	Competent professional with skills in scripting and IT infrastructure management.
+content	experience	Have knowledge in strategically managing the awareness & compliance levels in the organization through training, evaluation, performance management and continuous improvement .
+content	experience	An effective communicator with excellent analytical, problem solving, organizational abilities and a flexible attitude
+header	experience	Technical SKILls
+content	experience	Programming Languages – Javascript ,Core java ,HTML
+content	experience	Framework – Reactjs
+content	experience	MONITORING TOOLS –Visual Studio code IDE, Sublime text 3,Adobe XD.
+content	experience	OS - Windows and Linux
+content	experience	Good working knowledge of MS Excel, Word, PowerPoint
+content	experience	Good Communication and Presentation skills.
+content	experience	Exposure to Linux command line.
+content	experience	OtherS - Critical Thinking and adaptability, Ability to handle stress, Multi tasker, Technical support.
+header	experience	EMPLOYMENT
+content	experience	JOB TITLE: Software developer – GlobalLogic Technology Ltd.

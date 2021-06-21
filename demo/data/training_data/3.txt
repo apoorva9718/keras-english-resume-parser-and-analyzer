@@ -1,0 +1,27 @@
+header	others	Akarshit Verma
+content	others	Passionate front-end web developer with 2 years of experience using JavaScript, HTML, and CSS to
+content	others	build all aspects of the user experience and user interface for e-commerce websites.
+header	experience	WORK EXPERIENCE
+meta	experience	Software Engineer
+content	experience	Indiamart Intermesh Private Limited
+content	experience	06/2018 - Present,
+meta	project	Major Projects/Work
+content	project	Noida,India
+content	project	Overview: Conversion of existing PHP legacy code to React SSR architecture of search,category
+content	project	listing and product detail pages with a daily traﬃc of 1.5 Lacs Users.
+content	project	Brotli Compression: Compression technique founded by google for HTML, JS CSS requests. It
+content	project	improved our page performance and also helped in cost reduction by 15%.Product Maintenance
+content	project	and Hygiene Checkups:
+content	project	Page speed optimizations: Worked on page performance metrics as deﬁned by google from
+content	project	time to time(i.e. LCP,CLS,FID,TTI).Improved page speed score of our websites by almost 30-40
+content	project	points. Reduced TTI by almost 2 seconds. Reduced FID by 200ms.
+content	project	Code Reduction & Optimizations: Unused code removal and code optimization by measuring
+content	project	the performance of JS code in Chrome developer console.
+content	project	Structured Data/Schema Implementation: To improve SEO ranking, traﬃc and content on
+content	project	Google search.
+content	project	akaverma007@gmail.com
+content	others	+919473650148
+content	others	Noida, India
+content	others	linkedin.com/in/akarshit-
+content	others	verma-ab320b150
+header	others	SKILLS

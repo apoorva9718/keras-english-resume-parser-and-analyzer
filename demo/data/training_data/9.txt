@@ -1,0 +1,27 @@
+header	others	CURRICULAM-VITAE
+content	others	Email: fheemabbas@gmail.com
+content	others	Mobile no.: (+91) 8849727207
+header	others	Personal Profile
+content	experience	I am a software developer with robust problem-solving skills and proven
+content	experience	experience in creating and designing software in a test-driven environment. I
+content	experience	am a quick learner and easily adapt new technology.
+meta	experience	Responsibilities
+content	experience	•  Design and create software solutions.
+content	experience	•  Making Reusable Components.
+content	experience	•  Modifies code to fix errors.
+content	experience	•
+content	experience	•  Developed and implemented software solutions based on client
+content	experience	Integrating third party libraries.
+content	experience	requirements.
+content	experience	•  Excellent ability to plan, organizes, prioritize my work and meet deadlines.
+header	experience	Experience
+content	experience	•  Frontend Developer :- Dev Accelerator PVT. LTD. (1st Sep. 2020 to Till Date)
+content	experience	•
+content	experience	Frontend Developer Intern :- Dev Accelerator PVT. LTD. (24th Feb 2020 to 30th
+content	experience	Aug 2020)
+content	experience	Products Undertaken at DevX
+content	experience	•  DevX Collab (Web)
+content	experience	•  Front End: React Js
+content	experience	•  Back End: Node Js
+content	experience	•  Description: DevX collab is autogenous product that manage
+content	experience	coworking spaces of DevX all across India. The features of DevX Collab

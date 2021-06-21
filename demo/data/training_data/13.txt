@@ -1,0 +1,26 @@
+header	others	Mukul Anand Mohan
+content	others	Phone  91 6369768100
+content	others	E-mail  mukulanand212@gmail.com
+content	experience	● To Work in a place which appreciates Innovation so that I can enhance my Knowledge and Skills to give
+content	experience	my best for the Growth of the organization
+content	experience	● Knowledgeable performer ready to undertake management of challenging technical environments.
+content	experience	Consummate provider of flawless operational continuity. Proponent of consistent technological growth
+content	experience	through exceptional engineering.
+content	experience	Total years of experience
+content	experience	3+1.1 year internship and 4 year freelancer
+content	others	Skills
+content	knowledge	C, Java, HTML, AngularJS,AWS,NOSQL
+content	knowledge	Advanced Data analysis and modelling in MS Excel
+content	knowledge	Software Testing(Automation)
+content	knowledge	Database Management,
+content	knowledge	Incident Management
+content	knowledge	Basic Network Troubleshooting
+header	others	Work History
+content	experience	2020-06-present
+content	experience	Associate System Engineer -Software development and
+content	experience	CGI, Chennai , Tamil Nadu
+content	experience	● Working as system engineer in software developer and application support .
+content	experience	● Expertise in Algorithms
+content	experience	● Keep the track of time and attendance for various employees.
+content	experience	● Keep track of application during production and deployment.
+content	experience	● Expertise in cloud platform.

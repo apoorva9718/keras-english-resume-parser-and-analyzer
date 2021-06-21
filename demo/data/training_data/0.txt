@@ -1,0 +1,27 @@
+header	others	Deepak Kumar
+content	others	LinkedIn: https://www.linkedin.com/in/deepak-kumar-7abb88124/  | GitHub: https://github.com/deepak300811
+header	others	Front End Developer
+content	others	Hard-working web developer having experience in front end technologies with a capability for creating elegant
+content	others	solutions in the least amount of time. Passionate about responsive website design, a ﬁrm believer in the
+content	others	mobile-ﬁrst approach and building Single-page applications (SPAs). Dedicated to applying principles of agile
+content	others	management to projects and tasks.
+header	experience	Work Experience
+meta	experience	Tata Consultancy Services (Web Developer)
+content	experience	09/2018 - Present
+content	experience	  As a web developer at TCS, I am a member of Data Privacy Management team.
+content	experience	  Working in DPM my knowledge of HTML, CSS, JavaScript expanded. Also, I gained experience using
+content	experience	some of the best modern front-end libraries such as ReactJS, and things like JSX, ES6, SASS
+content	experience	preprocessor.
+content	experience	  Moreover, I also Used Scrum Agile Methodology in my work.
+header	education	Education
+header	project	Personal Projects
+header	others	Achievements
+header	knowledge	Technical Skills
+header	education	Bachelor of Technology
+header	education	Meerut Institute of Engineering & Technology
+content	education	08/2014 – 04/2018
+header	education	Computer Science
+content	education	76%
+header	education	Intermediate
+content	education	J.P Academy
+content	education	2013-2014
